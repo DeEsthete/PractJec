@@ -1,0 +1,6 @@
+c:\users\павлове\documents\visual studio 2017\Projects\Pract-Dictionary\Pract-Dictionary\bin\Debug\Pract-Dictionary.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\Pract-Dictionary\Pract-Dictionary\bin\Debug\Pract-Dictionary.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Pract-Dictionary\Pract-Dictionary\bin\Debug\Pract-Dictionary.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\Pract-Dictionary\Pract-Dictionary\obj\Debug\Pract-Dictionary.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\Pract-Dictionary\Pract-Dictionary\obj\Debug\Pract-Dictionary.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Pract-Dictionary\Pract-Dictionary\obj\Debug\Pract-Dictionary.pdb
